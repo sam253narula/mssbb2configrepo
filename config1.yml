@@ -1,6 +1,6 @@
 --- 
 my: 
-  appName: "Config Client 1"
+  appName: "Configuration Client 1"
   greeting: "Welcome to Learning Spring Boot Cloud Config Management"
   list: 
     values: "apple,banana,Mango"
