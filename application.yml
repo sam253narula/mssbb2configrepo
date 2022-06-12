@@ -1,0 +1,5 @@
+my:
+  greeting: Welcome to Learning Spring Boot Configuration Management
+  list: 
+    values: apple,banana,Mango
+
